@@ -1,4 +1,4 @@
-# Course_work_3
+# Course_work_3 (pytest)
 Курсовой проект по курсу «Основы backend-разработки»
 
 Требования
